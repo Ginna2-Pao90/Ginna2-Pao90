@@ -1,7 +1,7 @@
 # Hello i'm Ginna Paola
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
-
+<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -19,3 +19,13 @@
 ![](https://streak-stats.demolab.com?user=Ginna2-pao90&theme=dracula)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginna2-Pao90&show_icons=true&theme=dracula)<br>
 <hr>
+
+```ascii    
+          My 2022 GitHub           
+         ✦                 ✦    ▁          ☽     ✦   
+ ✦                 █          ▁▄██      ✧     ✧      
+ ✧                ✦█  ▁ ▇     ████    ✦ ✧            
+  ✧   ✧   ✦  ▃     █✦ █✧█▂   ▇████ ▇▅   ▃ ✧✧     ▅   
+ ▃▁ ✧▂▅▂▅▂▃▅▁█ ✦▇  █▇▅█▃██▄███████▅██▅▂▄██▄▄▁ ▁▁✦█▂  
+▁██▅██████████▁▇█▆▇██████████████████████████▇██████▅
+```
